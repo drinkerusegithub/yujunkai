@@ -1,4 +1,4 @@
 <?php
-echo "wocao_shuangkuai!";
+echo "wocao_shuangkuai_ca!";
 
 ?>
